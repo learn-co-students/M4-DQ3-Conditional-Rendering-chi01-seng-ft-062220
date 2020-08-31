@@ -3,7 +3,8 @@ import {Grid, Segment} from 'semantic-ui-react';
 import './App.css';
 import MainBox from './containers/MainBox.js'
 
-class App extends Component {
+class App extends Component {s
+  
   render() {
     return (
       <Grid centered column={1}>
